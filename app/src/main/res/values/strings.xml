@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">task5.1</string>
+
+    <string-array name="title">
+        <item>Great Barrier Reef</item>
+        <item>Great Ocean Road</item>
+        <item>Bondi Beach</item>
+        <item>Uluru</item>
+        <item>Sydney Opera House</item>
+        <item>Kakadu National Park</item>
+        <item>Twelve Apostles</item>
+        <item>Whitehaven Beach</item>
+        <item>Freycinet National Park</item>
+        <item>MONA</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>The Great Barrier Reef is the world\'s largest coral reef system composed of over 2\,900 individual reefs and 900 islands stretching for over 2\,300 kilometres over an area of approximately 344\,400 square kilometres\. The reef is located in the Coral Sea\, off the coast of Queensland\, Australia\.</item>
+        <item>The Great Ocean Road is an Australian National Heritage listed 243\-kilometre stretch of road along the south-eastern coast of Australia between the Victorian cities of Torquay and Allansford\.</item>
+        <item>Bondi Beach is a popular beach and the name of the surrounding suburb in Sydney, New South Wales, Australia. Bondi Beach is located 7 km east of the Sydney central business district, in the local government area of Waverley Council, in the Eastern Suburbs.</item>
+        <item>Uluru\, also known as Ayers Rock and officially gazetted as Uluru Ayers Rock\, is a large sandstone rock formation in the southern part of the Northern Territory in Australia\.</item>
+        <item>The Sydney Opera House is a multi\-venue performing arts centre at Sydney Harbour located in Sydney\, New South Wales\, Australia\. </item>
+        <item>Kakadu National Park is a protected area in the Northern Territory of Australia\, 171 km southeast of Darwin\. It is a World Heritage Site\. The park is located within the Alligator Rivers Region of the Northern Territory\. </item>
+        <item>The Twelve Apostles is a collection of limestone stacks off the shore of Port Campbell National Park\, by the Great Ocean Road in Victoria\, Australia\. Their proximity to one another has made the site a popular tourist attraction\.</item>
+        <item>Whitehaven Beach is a 7 km stretch along Whitsunday Island\, Australia\. The island is accessible by boat\, seaplane and helicopter from Airlie Beach\, as well as Hamilton Island\.</item>
+        <item>Freycinet National Park is a national park on the east coast of Tasmania\, Australia\, 125 km northeast of Hobart\. It occupies a large part of the Freycinet Peninsula\, named after French navigator Louis de Freycinet\, and Schouten Island\.</item>
+        <item>The Museum of Old and New Art is an art museum located within the Moorilla winery on the Berriedale peninsula in Hobart\, Tasmania\, Australia\. </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
